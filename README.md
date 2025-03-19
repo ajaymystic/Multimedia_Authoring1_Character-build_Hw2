@@ -1,7 +1,7 @@
 # Multimedia_Authoring1_Character-build_Hw2
 - This repository was built for homework 2 in Multimedia Authoring 1.
 
-- I set my background to the whole body because my BG image was big and it looked great.
+- I set my background image to the whole body because my BG image was big and it looked great.
  
 ---
 
