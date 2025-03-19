@@ -1,41 +1,34 @@
 # Multimedia_Authoring1_Character-build_Hw2
-This repository was built for homework 2 in Multimedia Authoring 1.
+- This repository was built for homework 2 in Multimedia Authoring 1.
 
-# Homework 1 Assignment
-## Team Me&Myself
+- I set my background to the whole body because my BG image was big and it looked great.
+ 
+---
 
-*This Is Italic Text*
-**This Is Bold Text**
+## 🛠️ Technologies Used
+- **HTML** for page structure.
+- **CSS** for styling and layout.
+- **GitHub** for version control and collaboration.
 
-### These Are My Favorite Anime
-- Highschool DXD
-- Berserk
-- Grand Blue
+---
 
-### These Are My Pet's Name
-1. Tinu
-2. Jack
-3. Tiku
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/ajaymystic/Multimedia_Authoring1_Character-build_Hw2.git
+   ```
+2. Open the `highschooldxd.html` file in any web browser.
 
+---
 
-### My Favorite Website
-[Google](http:/www.google.com)
+## 📢 Credits
+- **Ajay Chakaravarthy Antony Raj** 
 
-![My Black Ice Collection](images/blaceice.png)
+---
 
+## 📄 License
+This project is open-source and available under the [MIT License](LICENSE).
 
-## Installation
-No Installition Required
-## Usage
-Open In Any Browser
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+---
 
-## Credits
-Ajay
-## License
-See License File
+🛠️ **Enjoy the High School DxD Character Build!** 🚀
